@@ -6,6 +6,7 @@ public class Demo {
 	@Test
 	public void hellow() {
 		System.out.println("hellow()");
+		System.out.println("hike");
 		
 	}
 
