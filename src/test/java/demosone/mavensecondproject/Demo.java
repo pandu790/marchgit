@@ -7,6 +7,8 @@ public class Demo {
 	public void hellow() {
 		System.out.println("hellow()");
 		System.out.println("hike");
+		System.out.println("hi");
+		System.out.println("ho");
 		
 	}
 
