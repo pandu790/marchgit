@@ -9,6 +9,9 @@ public class Demo {
 		System.out.println("hike");
 		System.out.println("hi");
 		System.out.println("ho");
+
+                System.out.println("person2");
+		System.out.println("person21"); 
 		
 		System.out.println("person1");
 		System.out.println("person11");
